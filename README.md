@@ -1,16 +1,17 @@
-## Hi there 👋
+# Bug Bounty Notes by Mahad998
 
-<!--
-**Mahad998/Mahad998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a beginner bug bounty hunter learning web security vulnerabilities such as XSS, IDOR, CSRF.
+Tools I'm learning: Burp Suite, Nmap, OWASP ZAP.
+Contact: frahnccountry@gmail.com
 
-Here are some ideas to get you started:
+## Learning Notes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### XSS
+- Reflected XSS
+- Stored XSS
+- Payload examples
+
+### Tools Usage
+- Burp Suite basics
+- Nmap scanning commands
